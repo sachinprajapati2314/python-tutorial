@@ -6,12 +6,7 @@ s = 0
 for i in range (1,num):
     if num%i == 0:
         s = s+i
-        print(i,end= " \n")
-    a = num%i
 if s == num:
     print('the entered number is perfect number ')
 else:
     print('the entered number is not perfect number')
-
-print(s)
-print(a)

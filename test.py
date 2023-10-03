@@ -1,1 +1,1 @@
-print(8%7)
+print('sachin')
