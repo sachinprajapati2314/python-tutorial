@@ -35,6 +35,6 @@ number_input =int(input('enter the number  = '))
 p_number = number(number_input)
 print(p_number)
 
-name_input = input("\nenter the name = ")
+name_input = input("enter the name = ")
 p_name = name(name_input)
 print(p_name)
