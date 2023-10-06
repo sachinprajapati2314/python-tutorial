@@ -1,3 +1,5 @@
+# # add two numbers without using subtraction operator.
+
 num_1 = int(input("enter the first number = "))
 num_2 = int(input("enter the second number = "))
 
