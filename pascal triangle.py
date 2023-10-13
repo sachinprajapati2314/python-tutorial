@@ -15,13 +15,12 @@ for  i in range(num):
         print("{0:6}".format(list1[i][j]),end='',sep='')
     print()
 
-    # input n  
+
+# small step
 n = int(input("Enter the number of rows:"))  
-  
-# iterarte upto n  
+   
 for i in range(n):  
-   # adjust space  
+
    print(' '*(n-i), end='')  
-  
-   # compute power of 11  
+   
    print(' '.join(map(str, str(11**i))))  
