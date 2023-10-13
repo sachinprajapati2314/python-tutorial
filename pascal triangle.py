@@ -1,6 +1,6 @@
 
 num = 10
-list1 = [] #an empty list  
+list1 = [] 
 
 for i in range(num):  
   list1.append([])  
