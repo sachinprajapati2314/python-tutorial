@@ -7,5 +7,5 @@ num = int(input("enter the number = "))
 if (num == 0):
     print("1")
 else:
-   num1 = num * math.factorial(num - 1)
-   print(num1)
+   fact = math.factorial(num)
+   print(fact)
