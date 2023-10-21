@@ -1,6 +1,6 @@
-a = input("enter the hexadecimal = ")
+a = input("enter hexadecimal number = ")
 
 # convert to int
-h = int(a,16)
+decimal = int(a,16)
 
-print(h)
+print("decimal number = ",decimal)
