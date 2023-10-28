@@ -13,6 +13,6 @@ z = [[0,0,0],
 for i in range(len(x)):
     for j in range(len(x[0])):
         z[i][j] = x[i][j] - y[i][j]
-print("x - y = ")
+
 for r in z:
     print(r)
