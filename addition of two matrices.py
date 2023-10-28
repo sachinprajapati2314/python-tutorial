@@ -16,5 +16,3 @@ for i in range(len(x)):
 
 for r in z:
     print(r)
-print(len(x))
-print(j)
