@@ -14,5 +14,4 @@ for i in range(n):
     t1 = tr
     t2 = t2 * tr
 
-print("term of G.p =",tn)
 print("sum of given G.P =",sum)
