@@ -7,4 +7,4 @@ for i in range(1,a+1):
     l.append(a)
 
 l.sort()
-print("largest element of arr =",l[-2])
+print("second largest element of arr =",l[-2])
